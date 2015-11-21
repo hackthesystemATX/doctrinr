@@ -22,9 +22,10 @@ Planning
 
 
 People involved: 
-@s-hassam01
-@Victoriaodell  
-@notalbanian
-@nickengmann
-@robojukie
-@loyceg
+People involved: 
+[@s-hassam01](https://github.com/shassam)
+[@Victoriaodell](https://github.com/victoriaodell)  
+[@notalbanian](https://github.com/notalbanian)
+[@nickengmann](https://github.com/nickengmann)
+[@robojukie](https://github.com/robojukie)
+[@loyceg](https://github.com/loyceg)
