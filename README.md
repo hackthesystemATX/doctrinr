@@ -6,6 +6,8 @@ Enhancing social awareness within the UT student community through an interactiv
 
 **Link (more details/brain dump/alpha)**
 
+https://docs.google.com/document/d/1ZKU9z3Gjb5ST6I-fsZTF4jG8avhgC4P6hdzZoE4OuQQ/edit
+
 **Who will use/benefit from this project?**
 
 UT students, staff, and faculty and administration
