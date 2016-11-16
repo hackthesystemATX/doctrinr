@@ -1,6 +1,13 @@
-#Doctrinr Version 0.0.0 #
+#Doctrinr Version 0.1#
+**How to run the app**
+0) Download/Clone this repo </br>
+1) go to "chrome://extensions/"</br>
+2) Enable Developer Mode </br>
+3) Select "Load Unpacked Extension" </br>
+4) Locate the Folder named "extension" in doctrinr and press enter </br>
+5) Get Woke.
 
-**Concise description. What problem are you trying to solve?**:
+**What problem are we trying to solve?**:
 
 Enhancing social awareness within the UT student community through an interactive Chrome extension. Taking the UT slogan to heart. “What starts here changes the world”
 
@@ -19,7 +26,6 @@ Content, UI Design, backend, frontend
 **Status (in progress, pie-in-the-sky)**
 
 Planning
-
 
 People involved: 
 * [@s-hassam01](https://github.com/shassam)
