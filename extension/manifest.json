@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+
+  "name": "Doctrinr",
+  "description": "This Chrome Extension teaches you about the history of culture in Austin while you use Chrome",
+  "version": "0.1",
+  "options_page": "options.html",
+  "permissions": ["tabs"],
+  "browser_action": {
+    "default_icon": "logo.png",
+    "default_popup": "options.html"
+  },
+  "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+  },
+    "icons":{
+        "64" : "logo.png"
+    },
+    "content_scripts": [
+      {
+        "matches": [
+          "<all_urls>"
+        ],
+        "js": ["open-dialog.js","jquery3.min.js"]
+      }
+  ]
+}
