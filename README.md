@@ -1,5 +1,5 @@
 #Doctrinr Version 0.1#
-**How to run the app**
+**How to run the app**</br>
 0) Download/Clone this repo </br>
 1) go to "chrome://extensions/"</br>
 2) Enable Developer Mode </br>
@@ -24,6 +24,8 @@ UT students, staff, and faculty and administration
 Content, UI Design, backend, frontend
 
 **Status (in progress, pie-in-the-sky)**
+Starting simple and only having three different types of questions available. Racial, Gender, and Environmental questions. The goal is to implement more different types of cultural/history questions and include different types of features.
+
 
 Planning
 
