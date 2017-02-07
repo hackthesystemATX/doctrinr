@@ -70,8 +70,7 @@ var facts =
 	"59": "On September 9th of 1997, Reverend Jesse Jackson Junior comes to the University to protest the statements made by Lino Graglia",
 	"60": "On September 9th of 1997 Students sponsored a 6 hour sit in at the Law School following reverend Jesse Jacksons speech",
 	"61": "In 1998 on June 1st the New Multicultural Information Center Opens",
-	"62": "In Fall of 1998 the Texas Attorney General Dan Morales applies a broad interpretation of the Hopwood ruling to all public universities and colleges in Texas"
-	
+	"62": "In Fall of 1998 the Texas Attorney General Dan Morales applies a broad interpretation of the Hopwood ruling to all public universities and colleges in Texas",
 	"63": "Most anthropologisits and biologists view race as a political grouping with roots in slavery and colonialism",
 	"64": "Most genetic variety is not between races, but rather within races. For example, two random Italians are likely to be as genetically different as an Italian and a Chinese",
 	"65": "Phernology was developed by German physician Franz Joseph Gall in 1796 and some people used it to describe the difference in races",
@@ -117,7 +116,6 @@ var facts =
 	"105": "While deployed in Afghanistan or Iraq, American female soldiers were more likely to be raped by their fellow soldier than attacked by the enemy.",
 	"106": "1 in 6 men have experienced abusive sexual experiences before age 18 and this figure is probably on the low end as males who have such experiences are less likely to disclose them than woman are",
 	"107": "40% of drinking water comes from plastic bottles.",	
-
 }
 
 var random = Math.floor((Math.random() * 107) + 1);
