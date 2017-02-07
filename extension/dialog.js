@@ -71,10 +71,56 @@ var facts =
 	"60": "On September 9th of 1997 Students sponsored a 6 hour sit in at the Law School following reverend Jesse Jacksons speech",
 	"61": "In 1998 on June 1st the New Multicultural Information Center Opens",
 	"62": "In Fall of 1998 the Texas Attorney General Dan Morales applies a broad interpretation of the Hopwood ruling to all public universities and colleges in Texas"
+	
+	"63": "Most anthropologisits and biologists view race as a political grouping with roots in slavery and colonialism",
+	"64": "Most genetic variety is not between races, but rather within races. For example, two random Italians are likely to be as genetically different as an Italian and a Chinese",
+	"65": "Phernology was developed by German physician Franz Joseph Gall in 1796 and some people used it to describe the difference in races",
+	"66": "Ethnicity is associated with culture, religion, language, etc. However race is a social construct associated with the idea that there are innate biological difference and has largely been discredited",
+	"67": "In the early 20th century some churches in the U.S. would hang a pinewood slab on the door with a comb hanging from a string. A person could only enter if his or her skin was lighter than the pinewood and if they ould run the comb through their hair without it snagging",
+	"68": "According to the 2010 American census, white and Asian children have the lowest rates of poverty of any ethnic group. Blacks had the highest level of children living in poverty at 38.2%, children who were identified with two or more races reported at 22.7% and Hispanic children were reported at 32.3%",
+	"69": "Before the African slave trade boom in the 18th century, between one-half and two-thirds of all early white immigrants to the American colonies were non-free laborers. Initially, European settlers in the colonies gave blacks from Africa and Native Americans the same status as white indentured servants. By the 1700s, however, Africans and their children were treated as a different race and were viewed as life-long properties of their masters.",
+	"70": "Virginia was the first state to outlaw interracial sex back in 1662. That lasted until 1967.",
+	"71": "In the early 1800s, blacks hoping to move to Ohio had to post a $500 bond guaranteeing their good behavior, and they were required to produce court documents proving they were free.",
+	"72": "In 2008, 46% of the people living with HIV were black, and 31.6% were white",
+	"73": "Arab is not a race, but rather an epithote for someone who speaks Arabic",
+	"74": "In the early 1900s eugenists attempted to use IQ tests to prove that certain races were inherently more intelligent than other races. FOr example, they used tests to try and demonstrate that blacks and recent imigrants from southern and eastern Europe were intellectually inferior to Americans of Anglo Saxon decent. By the 1940s, eugenics had been discredited both as bad science and as an excuse for racial hatred.",
+	"75": "Eugenics is controlled breeding to make the ideal human. Idea brought about by a white man.",
+	"76": "In the early 1900s, the Racial Integrity Act in the United States required racial classification of every person at birth and made marriage between whites and anyone with even a trace of Negro ancestry a crime. It was motivated by concern that sexual intermingling between blacks and whites would deteriorate the white race.",
+	"77": "Thomas Jefferson was not only a political philosopher but also a naturalist. In one of his notes, he argued that black people were predisposed to sleeping more because their minds were empty: \“An animal whose body is at rest and who does not reflect must be disposed to sleep, of course.\”",
+	"78": "The Institute of Medicine in 2002 scientifically documented widespread racial disparities in health care and suggested they stemmed at least partly from physician bias. in one generation, between 1940 and 1999, more than 4 million African Americans died prematurely relative to whites.",
+	"79": "After pornography, ancestry websites are the most commonly visited on the Internet. A molecular biologist from John Hopkins asserts that each one of us has around 6.7 billion relatives.",
+	"80": "White men and asain women pairings are the most common form of interracial dating and marriage in the United States",
+	"81": "Research indicates that infacts as young as six months old notice racial differences",
+	"82": "Statistics show that white wife/black husband marriages are twice as likely to end in divorce than white wife/white husband couples by the 10th year of marriage. However, a black wife/white husband marriage is 44 percent less likely to divorce than a white wife and white husband couple by the 10th year of marriage.",
+	"83": "According to federal statistics one in four students reports being a target of ethnic or racial bias in a typical school year",
+	"84": "In California, 40 percent of African American men between 18-25 are either in jail, on parole, or on probation",
+	"85": "Sociologists Simon Cheng and Brian Powell found that parents in biracial families typically devote more time and money to enrolling their kids in activities, such as music lessons and museum trips—not necessarily because they have more money, but most likely to compensate for their marginalized social status",
+	"86": "California was the first state to ban the use of race and ethnicity in public university admissions. However, now that affirmative action is banned (Proposition 209), Asian American students have dominated admissions. At UC Berkeley, for example, 46% of those admitted into the 2012 freshman class are Asian; 30% are white.",
+	"87": "﻿ Black students accounted for 18 percent of the country\’s pre-K enrollment, but made up 48 percent of preschoolers with multiple out-of-school suspensions.",
+	"88": "During the 2011-2012 school year ﻿ Black students were expelled at three times the rate of white students.",
+	"89": "﻿During the 2011-2012 school year American Indian and Native-Alaskan students represented less than 1 percent of students, but 3 percent of expulsions.",
+	"90": "During the 2011-2012 school year ﻿ Black girls were suspended at higher rates than all other girls and most boys.",
+	"91": "During the 2011-2012 school year ﻿ A quarter of the schools with the highest percentage of black and Latino students did not offer Algebra II",
+	"92": "During the 2011-2012 school year ﻿ Black and Latino students accounted for 40 percent of enrollment at schools with gifted programs, but only represented 26 percent of students in such programs",
+	"93": "During the 2011-2012 school year ﻿ Black, Latino and Native American students attended schools with higher concentrations of first-year teachers (3 to 4 percent) than white students (1 percent)",
+	"94": "During the 2011-2012 school year ﻿ Black students were more than three times as likely to attend schools where fewer than 60 percent of teachers meet all state certification and licensure requirements.",
+	"95": "40 percent of all bottled water sold in the world is bottled tap water",
+	"96": "27,000 trees are felled each day for toilet paper",
+	"97": "Paper can be recycled only six times. After that, the fibers are too weak to hold together.",
+	"98": "There is no known scientific way of predicting earthquakes. The most reliable method is to count the number of missing cats in the local paper: if it trebles, an earthquake is imminent",
+	"99": "Rainforests are being cut down at the rate of 100 acres per minute",
+	"100": "More than 20,000,000 Hershey\'s Kisses are wrapped each day, using 133 square miles of tinfoil. All that foil is recyclable",
+	"101": "The U.S. is the #1 trash-producing country in the world at 1,609 pounds per person per year. This means that 5% of the world\'s people generate 40% of the world\'s waste. We toss out two billion plastic razors, a million and a half tons of paper towels, and 12 billion disposable diapers annually",
+	"102": "On average, ONE supermarket goes through 60,500,000 paper bags per year!",
+	"103": "Every day over 40,000 children die from preventable diseases",
+	"104": "Nuclear power releases much less radiation into the environment than the currently most used source of electricity (coal)",
+	"105": "While deployed in Afghanistan or Iraq, American female soldiers were more likely to be raped by their fellow soldier than attacked by the enemy.",
+	"106": "1 in 6 men have experienced abusive sexual experiences before age 18 and this figure is probably on the low end as males who have such experiences are less likely to disclose them than woman are",
+	"107": "40% of drinking water comes from plastic bottles.",	
 
 }
 
-var random = Math.floor((Math.random() * 62) + 1);
+var random = Math.floor((Math.random() * 107) + 1);
 var questionDiv = document.getElementById('question');
 var factSpan = questionDiv.querySelector('.factsText');
 factSpan.innerHTML = facts[random];
