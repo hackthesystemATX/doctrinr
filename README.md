@@ -1,6 +1,8 @@
-#Doctrinr Version 0.1#
-**How to run the app**</br>
-0) Download/Clone this repo </br>
+## Doctrinr Version 0.1
+
+**How to run the app**
+
+0) Clone this repo </br>
 1) go to "chrome://extensions/"</br>
 2) Enable Developer Mode </br>
 3) Select "Load Unpacked Extension" </br>
